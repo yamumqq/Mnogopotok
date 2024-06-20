@@ -1,0 +1,3 @@
+﻿  Mnogopotok.cpp
+C:\Users\admin\source\repos\Mnogopotok\Mnogopotok\Mnogopotok.cpp(9,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Mnogopotok.vcxproj -> C:\Users\admin\source\repos\Mnogopotok\x64\Debug\Mnogopotok.exe
